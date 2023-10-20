@@ -121,6 +121,6 @@ public class Main {
 
         System.out.println("Сравнение студентов по силе магии и расстоянию трансгрессии:");
         hogwarts.compareMagicAndTransgression(harry, ron);
-        hogwarts.compareMagicAndTransgression(hermione, draco);
+        hogwarts.compareMagicAndTransgression(hermione, draco);/
     }
 }
